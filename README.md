@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ahmadfaza1609
 - 👀 I'm interested in programming and UI design
 - 🌱 I'm learning angular, nestjs and ui design
+- and then i'm like ui design, because enjoy learning
 
 upload my design in dribble :
 https://dribbble.com/ahmad1609
